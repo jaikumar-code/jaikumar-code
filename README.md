@@ -1,5 +1,3 @@
-Since you've created the special GitHub profile repository (jaikumar-code/jaikumar-code), you can place the following directly into your README.md. I've tailored it for your background as a QA Automation Leader with 13+ years of experience, specializing in automation, accessibility testing, AI-assisted testing, and quality engineering.
-
 # Hi there 👋 I'm Jaikumar
 
 ## 🚀 Senior QA Automation Leader | Quality Engineering Expert | AI-Driven Testing Advocate
@@ -92,9 +90,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=jaikumar-code&lay
 
 ## 🤝 Let's Connect
 
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](YOUR_LINKEDIN_URL)
+[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/jaikumarj/)
 
-https://img.shields.io/badge/GitHub-jaikumar--code-black?style=for-the-badge&logo=github](https://github.com/jaikumar-code)
+[https://img.shields.io/badge/GitHub-jaikumar--code-black?style=for-the-badge&logo=github](https://github.com/jaikumar-code)
 
 ---
 
@@ -103,26 +101,3 @@ https://img.shields.io/badge/GitHub-jaikumar--code-black?style=for-the-badge&log
 > "Quality is not just testing software. Quality is building confidence in every release."
 
 ⭐ If you find my work useful, feel free to follow and connect!
-
-A few professional improvements:
-
-Replace YOUR_LINKEDIN_URL with your LinkedIn profile.
-
-Pin 6 repositories on your GitHub profile:
-
-Test Brilliance
-Playwright Framework
-API Automation Framework
-Accessibility Testing Framework
-AI Testing Experiments
-Resume/Career-Ops Project
-
-Create repositories with these names (even if they're WIP):
-
-test-brilliance
-playwright-enterprise-framework
-accessibility-automation
-api-test-automation
-ai-testing-lab
-career-ops
-
