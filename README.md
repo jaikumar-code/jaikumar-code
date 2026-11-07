@@ -101,26 +101,3 @@ https://img.shields.io/badge/GitHub-jaikumar--code-black?style=for-the-badge&log
 > "Quality is not just testing software. Quality is building confidence in every release."
 
 ⭐ If you find my work useful, feel free to follow and connect!
-
-A few professional improvements:
-
-Replace YOUR_LINKEDIN_URL with your LinkedIn profile.
-
-Pin 6 repositories on your GitHub profile:
-
-Test Brilliance
-Playwright Framework
-API Automation Framework
-Accessibility Testing Framework
-AI Testing Experiments
-Resume/Career-Ops Project
-
-Create repositories with these names (even if they're WIP):
-
-test-brilliance
-playwright-enterprise-framework
-accessibility-automation
-api-test-automation
-ai-testing-lab
-career-ops
-
