@@ -1,5 +1,3 @@
-Since you've created the special GitHub profile repository (jaikumar-code/jaikumar-code), you can place the following directly into your README.md. I've tailored it for your background as a QA Automation Leader with 13+ years of experience, specializing in automation, accessibility testing, AI-assisted testing, and quality engineering.
-
 # Hi there 👋 I'm Jaikumar
 
 ## 🚀 Senior QA Automation Leader | Quality Engineering Expert | AI-Driven Testing Advocate
